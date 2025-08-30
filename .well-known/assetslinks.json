@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.samsung_browser_create",
+      "sha256_cert_fingerprints": [
+        "A2:CB:FE:99:19:6D:65:BB:9C:7E:B7:5C:27:3B:8F:D0:87:A1:9D:B6:C7:D2:80:A8:E2:84:03:73:C2:62:12:06"
+      ]
+    }
+  }
+]
